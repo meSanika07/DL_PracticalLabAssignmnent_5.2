@@ -82,8 +82,7 @@ Sequential Model:
 Tested predictions on the following seed phrases:
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/6bf57da5-c12c-401c-87fd-20df90417864)
-" width="70%" />
+  <img src="https://github.com/user-attachments/assets/6bf57da5-c12c-401c-87fd-20df90417864 alt="Output" width="70%" />
 </p>
 
 
