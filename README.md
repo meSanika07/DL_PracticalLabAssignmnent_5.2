@@ -76,8 +76,15 @@ Sequential Model:
   <img src="https://github.com/user-attachments/assets/07b076f9-4dab-4534-b372-1240e6ff3631" alt="Training Loss" width="45%" />
 </p>
 
+---
+
 ### 7. **Text Prediction Demo**
 Tested predictions on the following seed phrases:
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/6bf57da5-c12c-401c-87fd-20df90417864)
+" width="70%" />
+</p>
 
 
 ---
