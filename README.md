@@ -70,7 +70,7 @@ Sequential Model:
 
 ### 6. **Performance Visualization**
 - Accuracy and Loss plotted per epoch:  
-**Training Accuracy:** ![Training Accuracy](![image](https://github.com/user-attachments/assets/d31adcb2-c961-4a7f-b83a-e593cddc8357) **Training Loss:** ![Training Loss](![image](https://github.com/user-attachments/assets/07b076f9-4dab-4534-b372-1240e6ff3631)
+**Training Accuracy:** ![Training Accuracy](https://github.com/user-attachments/assets/d31adcb2-c961-4a7f-b83a-e593cddc8357) **Training Loss:** ![Training Loss](https://github.com/user-attachments/assets/07b076f9-4dab-4534-b372-1240e6ff3631)
 
 ### 7. **Text Prediction Demo**
 Tested predictions on the following seed phrases:
